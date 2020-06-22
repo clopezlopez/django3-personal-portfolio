@@ -1,9 +1,9 @@
 .navbar-nav .nav-link {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(250, 248, 248) !important;
 }
 
 .navbar-nav .nav-link:hover {
-    color: rgba(252, 8, 8, 0.5) !important;
+    color: rgba(255, 251, 251, 0.5) !important;
 }
 
 body {
